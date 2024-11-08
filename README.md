@@ -1,2 +1,2 @@
 # demo
-just for basics of github
+just for basics of  git & github.
